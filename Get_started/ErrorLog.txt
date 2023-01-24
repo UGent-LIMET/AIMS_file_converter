@@ -1,0 +1,15 @@
+# Title: Software framework for the processing and statistical analysis of multivariate MS-data
+# Owner: Laboratory of Integrative Metabolomics (LIMET), Ghent university
+# Creator: Dr. Marilyn De Graeve
+# Maintainer: <limet@ugent.be>
+# Script: ErrorLog
+
+
+##########Frequently got errors##########
+#### PART 0: file conversion ####
+REIMS:
+Error: execution failed with error code 1
+= spaces in filename, rm and rerun
+
+#
+####################

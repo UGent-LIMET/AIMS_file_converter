@@ -1,0 +1,12 @@
+# Title: Software framework for the processing and statistical analysis of multivariate MS-data
+# Owner: Laboratory of Integrative Metabolomics (LIMET), Ghent university
+# Creator: Dr. Marilyn De Graeve
+# Maintainer: <limet@ugent.be>
+# Script: AIMS_file_converter
+
+# Description: After data-acquisition, Waters raw-files are converted to readable files to extract AIMS information. This task needs to be performed using Windows specific dependencies of vendor software. 
+# Input: 
+# -	Waters rawfiles (.raw)
+#   ! No spaces are allowed in raw filenames 
+# Output: 
+# -	Decrypted tabular files (.txt)
